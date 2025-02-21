@@ -1,0 +1,112 @@
+
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:white;
+}
+body{
+    background-color: #000327;
+}
+.navbar {
+display:flex;
+height:3rem;
+width:100%;
+justify-content:space-evenly;
+align-items:center;
+text-decoration:none;
+}
+
+
+   
+.navbar .mmmmmmm{
+display:flex;
+justify-content:space-evenly;
+margin-right:20px;
+text-decoration:none;
+}
+.navbar h1{
+    height:3rem;
+    width:100%;
+}
+ .sarika{
+font-size:3rem;
+display:flex;
+margin-top:5rem;
+
+}
+.hero{
+height:5rem;
+display:flex;
+}
+.nav-sec{
+    margin-top:20rem;
+}
+
+
+.image-container img {
+    position: absolute;
+    object-fit: cover;
+    transition: transform 0.3s ease-in-out;
+}
+
+.image-container {
+    height:200px;
+    width:600px;
+    overflow: hidden;
+   margin-left:5rem
+}
+
+.nav-sec{
+    display:flex;
+    justify-content: space-evenly;
+  border:2px solid white;
+  width:100rem;
+  margin-left:2rem;
+  border-radius:20px;
+}
+.txt{
+    font-size:4rem;
+    text-align: center;
+}
+.img-1{
+    margin-left:5rem
+}
+.container{
+    display:flex;
+    justify-content:space-evenly;
+    margin-top:4rem;
+    font-size:4rem;
+}
+.m12{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+}
+.m12 h1{
+font-size:5rem;
+}
+.sty{
+    display:flex;
+    gap:4rem;
+    justify-content:center;
+margin-top:10rem;
+}
+.hhh{
+    
+    border:2px solid white;
+    border-radius:40px;
+    width:45rem;
+    height:15rem;
+    padding:20px 20px 20px 20px;
+}
+.cntct{
+    border:2px solid white;
+    border-radius:40px;
+    width:45rem;
+    height:15rem;
+    padding:20px 20px 20px 20px;
+}
+footer{
+    display:flex;
+    margin-left:40rem;
+    margin-top:10rem;
+}
